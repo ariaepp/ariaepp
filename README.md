@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ariaepp
 - 👀 How's it going?
-- 🌱 I’m currently learning some of the many ways -- from biomedical research to online courses -- computer science can be used to improve people's lives
+- 🌱 I’m currently learning some of the many ways -- from biomedical research to online courses -- computer science can be used to improve people's lives.
 - 💞️ I’m interested in coding, swimming, and eating.
 
 
